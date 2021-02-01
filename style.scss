@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    margin: 0;
+}
+
+.header {
+    display: grid;
+    min-height: 30px;
+    grid-auto-flow: column;
+    grid-gap: 1.5em;
+    padding: 0 40px;
+    padding-bottom: 5px;
+
+    .container {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+
+        .logo-container {
+            img {
+                width: 350px;
+                height: auto;
+            }
+        }
+
+        .search-bar {
+            text-align: center;
+            padding: 10px 0;
+            padding-top: 0;
+
+            input {
+                border-radius: 10px;
+                border-style: solid;
+                padding: 5px 10px;
+            }
+
+        }
+
+
+        .navigation-bar {
+            text-align: center;
+
+            ul {
+                padding: 0;
+
+                li {
+                    display: inline;
+
+                    a {
+                        text-decoration: none;
+                        font-family: 'Roboto', sans-serif;
+                        font-size: 15px;
+                        font-weight: bold;
+                        color: black;
+                        padding: 0 10px;
+                        border-left: 2px solid black;   
+                    }
+
+                    .no-border {
+                        border: none;
+                    }
+
+                }
+            }
+
+        }
+
+    }
+}
+
+.products-page {
+    display: grid;
+    min-height: 30px;
+    grid-auto-flow: column;
+    grid-gap: 1.5em;
+    padding: 5px 40px;
+    padding-top: 10px;
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bold;
+
+    .page-container {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+
+        .title {
+            h1 {
+                text-align: center;
+                font-size: 22px;
+                font-family: 'Roboto', sans-serif;
+            }
+        }
+
+        .products-1 {
+            text-align: center;
+
+            ul {
+                padding: 0;
+
+                li {
+                    list-style: none;
+                    padding: 0 10px;
+                    padding-bottom: 10px;
+                    display: inline-block;
+
+                    img {
+                        height: 500px;
+                        width: auto;
+                        border-radius: 10px;
+                    }
+
+                    .text {
+                        display: flex;
+                        padding: 5px;
+
+                        p {
+                            text-decoration: none;
+                            font-family: 'Roboto', sans-serif;
+                            font-size: 15px;
+                            padding: 10px 0;
+                            margin: 0 auto;
+                            margin-left: 0;
+                        }
+
+                        .price {
+                            margin-right: 0;
+                        }
+                    }
+
+                }
+            }
+
+        }
+
+    }
+}
+
+.footer {
+    display: grid;
+    min-height: 30px;
+    grid-auto-flow: column;
+    grid-gap: 1.5em;
+    padding: 10px 40px;
+    background-color: white;
+
+    .footer-container {
+        display: grid;
+        justify-content: center;
+        align-content: center;
+
+        .copyright {
+            padding: 5px 0;
+            p {
+                text-align: center;
+                font-family: 'Roboto', sans-serif;
+                font-size: 18px;
+                font-weight: bold;
+            }
+        }
+
+        .social-media-buttons {
+            ul {
+                padding: 0;
+                padding-bottom: 20px;
+                margin: 0 auto;
+
+                li {
+                    display: inline;
+                    padding: 0 10px;
+
+                    i {
+                        font-size: 55px;
+                        cursor: pointer;
+                    }
+
+                }
+            }
+        }
+    }
+}

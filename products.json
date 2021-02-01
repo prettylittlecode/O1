@@ -1,0 +1,63 @@
+[
+    { 
+      "name": "Black T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Black+T-Shirt",
+      "price": 249
+    },
+    { 
+      "name": "Red T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+      "price": 199
+    },
+    { 
+      "name": "Green T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Green+T-Shirt",
+      "price": 0
+    },
+    { 
+      "name": "Magenta T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Magenta+T-Shirt",
+      "price": 249
+    },
+    { 
+      "name": "Red T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+      "price": 0
+    },
+    { 
+      "name": "Pink T-Shirt",
+      "imageUrl": "https://via.placeholder.com/160x240.png?text=Pink+T-Shirt",
+      "price": 249
+    },
+    { 
+        "name": "Black T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Black+T-Shirt",
+        "price": 249
+      },
+      { 
+        "name": "Red T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+        "price": 199
+      },
+      { 
+        "name": "Green T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Green+T-Shirt",
+        "price": 0
+      },
+      { 
+        "name": "Magenta T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Magenta+T-Shirt",
+        "price": 249
+      },
+      { 
+        "name": "Red T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+        "price": 0
+      },
+      { 
+        "name": "Pink T-Shirt",
+        "imageUrl": "https://via.placeholder.com/160x240.png?text=Pink+T-Shirt",
+        "price": 249
+      }
+]
+  
