@@ -11,13 +11,14 @@ function fetchData() {
         .then(data => {
             console.log(data)
             const html = data
-                .map(user => {
+                .filter(product => product.price >= 1)
+                .map(product => {
                     return `
                         <li>
-                            <img src="${user.imageUrl}" alt="Product">
+                            <img src="${product.imageUrl}" alt="Product">
                             <div class="text">
-                                <p>${user.name}</p>
-                                <p class="price">${user.price}</p>
+                                <p>${product.name}</p>
+                                <p class="price">${product.price}</p>
                             </div>
                         </li>
                     `;
