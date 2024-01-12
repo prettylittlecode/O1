@@ -1,62 +1,62 @@
 [
     { 
-      "name": "Black T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Black+T-Shirt",
+      "name": "SHEA BUTTER",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/b/4/2-05acd01be733495ca6c2d937db43525e-web_1010x1180_transparent_png.webp?mw=259",
       "price": 249
     },
     { 
-      "name": "Red T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+      "name": "NIVEA SOFT",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/d/e/7-223080-web_1010x1180_transparent_png.webp?mw=259",
       "price": 199
     },
     { 
-      "name": "Green T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Green+T-Shirt",
+      "name": "SHOWER & SHAVE",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/2/2/2-e38a972005ab482da17ebf2b38ab4dd0-web_1010x1180_transparent_png.webp?mw=259",
       "price": 0
     },
     { 
-      "name": "Magenta T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Magenta+T-Shirt",
+      "name": "ORCHID & ARGAN OIL INFUSED LOTION",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/c/f/f-15c9da228c244046b3fc5357512449df-web_1010x1180_transparent_png.webp?mw=259",
       "price": 249
     },
     { 
-      "name": "Red T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+      "name": "ROCK SALTS BODY WASH",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/9/a/f-b1e0d2f6229b4a938b20223b1f29db83-web_1010x1180_transparent_png.webp?mw=259",
       "price": 0
     },
     { 
-      "name": "Pink T-Shirt",
-      "imageUrl": "https://via.placeholder.com/160x240.png?text=Pink+T-Shirt",
+      "name": "ALOE VERA BODY LOTION",
+      "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/7/b/a-287211-web_1010x1180_transparent_png.webp?mw=259",
       "price": 249
     },
     { 
-        "name": "Black T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Black+T-Shirt",
+        "name": "DEEP CLEAN SHAVE SHAVING GEL",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/b/6/b-363290-web_1010x1180_transparent_png.webp?mw=259",
         "price": 249
       },
       { 
-        "name": "Red T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+        "name": "NIVEA SMOOTH HANDS",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/0/c/f-303ca7e672b2446ca3fa274488ae25a7-web_1010x1180_transparent_png.webp?mw=259",
         "price": 199
       },
       { 
-        "name": "Green T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Green+T-Shirt",
+        "name": "MAXIMUM HYDRATION PROTECTIVE LOTION SPF15",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/9/3/9-e407ce2559c74b06a14e0f41bc8fe812-web_1010x1180_transparent_png.webp?mw=259",
         "price": 0
       },
       { 
-        "name": "Magenta T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Magenta+T-Shirt",
+        "name": "NIVEA INTENSE HEALING BODY CREAM",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/e/4/e-4889f4d54ecd489380af246dfa2aa468-web_1010x1180_transparent_png.webp?mw=259",
         "price": 249
       },
       { 
-        "name": "Red T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Red+T-Shirt",
+        "name": "ESENTIALLY ENRICHED BODY CREA,M",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/f/9/0-294757-web_1010x1180_transparent_png.webp?mw=259",
         "price": 0
       },
       { 
-        "name": "Pink T-Shirt",
-        "imageUrl": "https://via.placeholder.com/160x240.png?text=Pink+T-Shirt",
+        "name": "COCOA BUTTER BODY LOTION",
+        "imageUrl": "https://images-as.nivea.com/~/images/miscellaneous/media-center-items/0/3/5-0fc211eb4f7a444da8e9d91191e62d57-web_1010x1180_transparent_png.webp?mw=259",
         "price": 249
       }
 ]
