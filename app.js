@@ -1,5 +1,5 @@
 function fetchData() {
-    let myRequest = new Request("products.json")
+    let myRequest = new Request("https://prettylittlecode.github.io/O1/products.json")
 
     fetch(myRequest)
         .then(response => {
